@@ -12,7 +12,7 @@ Built a Tableau downtime dashboard (found Osaka's 480 min of downtime, caused by
 
 ## 📫 Connect with Me
 - Email: aaditisalunkhe87@gmail.com
-- LinkedIn: [add your link here]
+
 <!-- 
 **aaditisalunkhe/aaditisalunkhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
